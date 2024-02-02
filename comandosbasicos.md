@@ -1,5 +1,5 @@
 # Comandos básicos de git
-[Volver al readme.md](readme.md)
+[Volver al readme.md](README.md)
 - git init - inicializa repositorio
 - git add - añade a git archivos
 - git status - estado del repositorio
